@@ -1,4 +1,4 @@
-Twitch Plays <X>
+Twitch Plays X
 ================
 
 Inpsired by http://twitch.tv/twitchplayspokemon and forked from Aidan Thomson's
